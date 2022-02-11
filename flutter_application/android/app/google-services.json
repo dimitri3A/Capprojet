@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1078096062765",
+    "firebase_url": "https://raspberry-image-672fe-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "raspberry-image-672fe",
+    "storage_bucket": "raspberry-image-672fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078096062765:android:894271cd314949134ecba4",
+        "android_client_info": {
+          "package_name": "com.example.dimitri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078096062765-1ilm8gudjd0qcb8t1lpi5d7cen3id99v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dimitri",
+            "certificate_hash": "711dd8bbf5e185295179bbdc097aae1d6c13deed"
+          }
+        },
+        {
+          "client_id": "1078096062765-krjuqfh73h4usv1poi4epvh0lrd7odoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFRm6mSQ0G2_nR4nXB1S1nWJRPsV0VSd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078096062765-krjuqfh73h4usv1poi4epvh0lrd7odoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078096062765:android:35f75e4c21e041a04ecba4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078096062765-krjuqfh73h4usv1poi4epvh0lrd7odoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFRm6mSQ0G2_nR4nXB1S1nWJRPsV0VSd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078096062765-krjuqfh73h4usv1poi4epvh0lrd7odoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078096062765:android:7cf779aa078d0d994ecba4",
+        "android_client_info": {
+          "package_name": "com.visiophone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078096062765-krjuqfh73h4usv1poi4epvh0lrd7odoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFRm6mSQ0G2_nR4nXB1S1nWJRPsV0VSd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078096062765-krjuqfh73h4usv1poi4epvh0lrd7odoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
